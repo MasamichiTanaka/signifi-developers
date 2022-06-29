@@ -1,0 +1,9 @@
+[submodule "Android"]
+	path = Android
+	url = https://github.com/MasamichiTanaka/Android.git
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/MasamichiTanaka/iOS.git
+[submodule "Flutter"]
+	path = Flutter
+	url = https://github.com/MasamichiTanaka/Flutter.git
